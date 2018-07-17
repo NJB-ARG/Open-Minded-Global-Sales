@@ -4,9 +4,9 @@ La solución implementa un sistema de gestión DMS con funcionalidad CRM integra
 ## Documentación Proyecto Tecnológico - SAP 2018
 
 ## Integrantes:
--Bordón Norberto
+-Bordón Norberto Jose
 
--Juan Alejandro
+-Elena Juan Alejandro
 
 ## Documento Word Open Minded Global Sales
 
