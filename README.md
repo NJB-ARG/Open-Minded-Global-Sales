@@ -35,4 +35,6 @@ La solución implementa un sistema de gestión DMS con funcionalidad CRM integra
 
 ## Archivos de código Proyecto
 
-WebApplication1.rar contiene todos los archivos que forman parte de la solución tecnológica desarrollado bajo la plataforma ASP.NET MVC 5 C# y ORM Entity Framework 6
+WebApplication1.rar contiene todos los archivos que forman parte de la solución tecnológica desarrollado bajo la plataforma ASP.NET MVC 5 C# y ORM Entity Framework 6.
+
+Proyecto GitHub con archivos de código --> https://github.com/NJB-ARG/WebApplication1
